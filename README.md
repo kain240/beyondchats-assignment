@@ -12,6 +12,7 @@ The system:
 
 The focus of this assignment was on **system design, reliability, and real-world engineering trade-offs** rather than perfect content generation.
 
+
 ---
 
 ## 🧱 Tech Stack
